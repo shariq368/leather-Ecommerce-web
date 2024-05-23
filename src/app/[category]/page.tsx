@@ -1,3 +1,4 @@
+
 import BestSellingCard from "@/components/BestSellingCard";
 
 
@@ -63,40 +64,8 @@ const Category = () => {
             category:"handbag",
             slug:"Leather handbag"
         },
-        {
-
-            src: "/picture/bestsell.jpg",
-            alt: "hand Bag",
-            title: "Women HandBag",
-            description: "Best quality HandBag for women",
-            price: 150,
-            category:"handbag",
-            slug:"Leather handbag"
-        },
-        {
-
-            src: "/picture/bestsell.jpg",
-            alt: "hand Bag",
-            title: "Women HandBag",
-            description: "Best quality HandBag for women",
-            price: 150,
-            category:"handbag",
-            slug:"Leather handbag"
-        },
-        {
-
-            src: "/picture/bestsell.jpg",
-            alt: "hand Bag",
-            title: "Women HandBag",
-            description: "Best quality HandBag for women",
-            price: 150,
-            category:"handbag",
-            slug:"Leather handbag"
-        },
         
-
-
-    ];
+            ];
     return (
         <div className="mt-[50px] mb-[100px] ">
             {/* Heading */}
